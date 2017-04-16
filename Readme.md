@@ -1,4 +1,3 @@
-### This is the header
+###  Learning how PowerShell can create good looking HTML Pages
 
-- eat me
-- happy monkey
+Firs time using VSCode and GitHub... Learning as I go
